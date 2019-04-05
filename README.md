@@ -11,3 +11,7 @@ Peony Form Filler is a PDF form filler software program that allows you to visua
 <h4>System Requirements</h4>
 - Windows 7 or later<br>
 <br>
+
+<h4>Download</h4>
+<a href="./peony_pdf_form_filler.msi">peony_pdf_form_filler.msi</a>
+<br>
